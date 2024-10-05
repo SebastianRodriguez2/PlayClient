@@ -1,1 +1,1 @@
-Se optimizo un poco la descarga de recursos graficos, por ende bajo un poco el uso de recursos.
+Configuracion interna, mas seguridad al usar.
