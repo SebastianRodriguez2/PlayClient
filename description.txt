@@ -1,1 +1,3 @@
-Configuracion interna, mas seguridad al usar.
+Se agrego el KeyBind (Activacion por teclas), Tambien agregue FakeLag, que te sirvira para teletransportarte.
+
+Actualmente los botones como lo son los del mouse, no estan siendo leidos por el KeyBind. Esto sera arreglado en una proxima actualizacion.
