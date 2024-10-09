@@ -1,3 +1,1 @@
-Se agrego el KeyBind (Activacion por teclas), Tambien agregue FakeLag, que te sirvira para teletransportarte.
-
-Actualmente los botones como lo son los del mouse, no estan siendo leidos por el KeyBind. Esto sera arreglado en una proxima actualizacion.
+Se agrego un Stream Mode funcional de manera global, te quita la visibilidad a ti tambien, pero contiene keybind para mostrar y ocultar de forma inmediata todos los procesos. Al igual que se arreglo el fakelag, tambien el stream mode, ocultara el proceso en administrador de tareas, mas no en detallados,
