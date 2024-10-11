@@ -1,1 +1,1 @@
-More security was added, and a certain key for Stream Mode, this can be changed as well.
+Added extra security needed.
